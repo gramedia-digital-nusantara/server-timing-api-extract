@@ -1,0 +1,2 @@
+requests<2.29
+prettytable<3.4

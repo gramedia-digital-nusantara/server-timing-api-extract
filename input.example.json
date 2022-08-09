@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Server Timing Endpoint 1",
+        "url": "http://localhost:3000/api/product-search"
+    },
+    {
+        "name": "Server Timing with IP",
+        "host": "my-web.com",
+        "url": "http://localhost/api/product-search"
+    }
+]
